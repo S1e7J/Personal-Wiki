@@ -1,0 +1,13 @@
+=Universidad=
+==Semestre 5==
+===Abstracta===
+===Moderna===
+===Termodinamica===
+===Ondas y Fluidos===
+===Monstruos y Literatura===
+===Tareas===
+=Desarrollo=
+==python==
+==C++==
+==JavaScript==
+==Linux==
