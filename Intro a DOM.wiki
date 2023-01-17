@@ -1,0 +1,10 @@
+=Como acceder al DOM=
+Para acceder al DOM se debe poner el elemento <script src='archivo.js'/> en el documento HTML que se esta trabajando.
+Se recomienda que se ponga al final del documento pues de esta manera todo el documento se carga.
+=Funciones en JavaScript con el DOM=
+==document.getElementById(Id)==
+Esta es una función que permite escoger y encontrar un elemento que tiene un Id determinado. Pasa todo el contenido
+incluyendo el elemento y sus propiedades si se quiere solo el texto interno se usa
+===innerHTML/innerText===
+Es una función auxiliar de getElementById que permite devolver solo el texto o contenido interno al encontrado.
+Ademas, permite asignar y reasignar facilmente los valores que contiene con solamente asignarlo directamente
