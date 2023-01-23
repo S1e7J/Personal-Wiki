@@ -2,6 +2,8 @@
 ==Semestre 5==
 ===Abstracta===
 * [[Apuntes Abstracta]]
+===Analisis===
+* [[Apuntes Analisis]]
 ===Moderna===
 * [[Magistral Moderna]]
 * [[Laboratorio Moderna]]
@@ -12,6 +14,7 @@
 ===Monstruos y Literatura===
 * [[Apuntes Monstruos y Literatura]]
 ===Tareas===
+* [[Tareas y Proyectos]]
 =Desarrollo=
 ==python==
 ==C++==

@@ -1,0 +1,48 @@
+=Apuntes y Ejercicios=
+==Profesores==
+Profesor : Santiago Beltran (Correo: ss.beltran@uniandes.edu.co)
+A. Escritura : Christian Reinach (Correo: cd.reinach@uniandes.edu.co, Oficina: Ñg - 104)
+==23/01/2023==
+===Tipos de Entregas===
+* Bitacoras preliminares
+* Bitacoras completas (En ambos casos se entrega una Bitacora por semana)
+* Informes Individuales (2 informes uno al inicio y uno al final)
+===Objetivos===
+* Reconocer diferentes experimentos históricos de la física del siglo XX, así como desarrollar habitos y habilidades experimentales
+* Familiarizarse de una manera práctica con varios fenómenos físicos que van mas alla de la física clásica del siglo XX
+* Escribir un articulo científico, usando lenguaje científico, donde se reporten los resultados y análisis de un experimento
+de física moderna.
+===Metodologia===
+Semana 1: Taller Latex
+Semana 2: Coevaluación, Explicación relevante, toma de datos, discusión de metodologia, elaboración de tablas y figuras, Entrega de
+trabajo en clase
+Semana 3: Coevaluación, Explicación relevante, elaboración de análisis, entrega de informe preliminar (Metodologia, Análisis datos)
+Semana 4: Coevaluación informe preliminar, Socialización, elaboración de introducción, conclución y resumen. Entrega informe 1
+===Calificaciones===
+Entregas Individuales : 3%
+Coevaluación : 3%
+Bitácora : 24%
+Informes Individuales : (15 + 15)%
+Informes Grupales : 40%
+Asistencias : 16 Clases Las inasistencias deben estar debidamente justificadas. 20% de fallas implican la pérdida del curso.
+===Bitacoras===
+====Preparación Bitacora====
+* Objetivos
+* Teoria
+* Diagrama de flujo
+====Durante la Clase====
+* Verificar el comportamiento deseado de los datos.
+* Enumerar grafícas, tablas, etc.
+* Realizar conclusiones preliminares.
+* Enviar Bítacora como requisito para entregar informe.
+====Informe====
+* Articulo científico.
+* Enviar un dia antes de la siguiente clase.
+===Informes===
+* Resumen
+* Introducción
+* Montaje Experimental
+* Resultaddos y Análisis
+* Conclusiones
+* Bibliografia
+* Apendice de Calculo de Errores

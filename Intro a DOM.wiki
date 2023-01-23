@@ -8,4 +8,4 @@ incluyendo el elemento y sus propiedades si se quiere solo el texto interno se u
 ===innerHTML/innerText===
 Es una función auxiliar de getElementById que permite devolver solo el texto o contenido interno al encontrado.
 Ademas, permite asignar y reasignar facilmente los valores que contiene con solamente asignarlo directamente.
-Utilizando innerHTML se puede agregar elementos HTML y utilizando innerText se puede agregar y configurar texto.
+[[Utilizando]] innerHTML se puede agregar elementos HTML y utilizando innerText se puede agregar y configurar texto.
