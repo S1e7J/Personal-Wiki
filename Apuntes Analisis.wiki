@@ -1,0 +1,31 @@
+=24/01/2023=
+==R visto como campo==
+===Por que Q no es suficiente para hacer analisis===
+Miremos por ejemplo que la ecuación a^2 = 2 y por tanto este no es completo. Son estos defectos los que nos insitan a construir
+otro conjunto que no tenga los problemas de Q.
+===Definición===
+====Conjunto Ordenado====
+Un conjunto S es ordenadi si existe una relación notada (<) en la que para todos los elementos de S se da uno de
+los siguientes casos.
+* x < y
+* y < x
+* x = y
+Ademas debe cumplir con la propiedad de transitividad. Es decir:
+====Cota Superior/Cota Inferior====
+Sea $A \subset S$ y $\alpha \in S$ se dice que $\alpha$ es cota superior de A si $\alpha \geq a, \forall a \in A$. Se dice que
+$\alpha$ es una cuota inferior si $ \alpha \leq a, \forall a \in A$
+====Supremo/Infimo====
+Se llama Supremo de A a la minima cota superior de A
+Se llama Infimo de A a la maxima cota inferior de A
+====Propiedad del Supremo/Infimo====
+Se dice que A tiene la propiedad del supremo si $\forall B \subseteq A \land B es acotado \Rightarrow B tiene supremo$
+Se dice que A tiene la propiedad del Infimo si $\forall B \subseteq A \land B es acotado \Rightarrow B tiene supremo$
+====Maximo/Minimo====
+Se dice que A tiene maximo si $Supremo(A) \in A$
+Se dice que B tiene minimo si $Infimo(A) \in A$
+===Teorema===
+====Enunciado====
+Si S tiene la propiedad del supremo entonces S tiene la propiedad del infimo
+====Demostración====
+Sea S ordenado y $\emptyset \neq A acotado$ entonces
+Sea L = ${Cotas inferiores de A}$ entonces $L \neq \emptyset$ Ademas, L tine supremo. Dado que $\forall a \in A$ a es cota superior de L. Ahora bien, por la hipotesis de la propiedad del Supremo sabemos que $\exists \alpha = Sup(L)$

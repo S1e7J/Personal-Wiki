@@ -1,0 +1,9 @@
+=24/01/2023=
+==Criterios de Avance en física==
+* Mayor precisión
+* Simplicidad
+* Reducción (Generalización)
+==Transformación Galileana==
+==La Luz como Onda==
+==C es constante==
+==Relatividad Especial==

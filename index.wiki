@@ -4,6 +4,7 @@
 * [[Apuntes Abstracta]]
 ===Analisis===
 * [[Apuntes Analisis]]
+* [[Apuntes Libro Analisis]]
 ===Moderna===
 * [[Magistral Moderna]]
 * [[Laboratorio Moderna]]
@@ -11,6 +12,9 @@
 * [[Apuntes Termodinamica]]
 ===Ondas y Fluidos===
 * [[Apuntes Ondas y Fluidos]]
+* [[Laboratorio Ondas y Fluidos]]
+* [[Complementaria Ondas y Fluidos]]
+* [[Apuntes del Libro]]
 ===Monstruos y Literatura===
 * [[Apuntes Monstruos y Literatura]]
 ===Tareas===
