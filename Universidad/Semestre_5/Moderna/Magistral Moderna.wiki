@@ -7,3 +7,9 @@
 ==La Luz como Onda==
 ==C es constante==
 ==Relatividad Especial==
+=26/01/2023=
+==Principios de la Relatividad==
+* El principio de Relatividad: Las leyes de la física son identicas en cualquier sistema de referencia inercial.
+* La velocidad de la luz es constante.
+==El Problema de la simultaneidad==
+

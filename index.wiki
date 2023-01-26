@@ -7,14 +7,14 @@
 * [[Universidad/Semestre_5/Moderna/Magistral Moderna|Magistral Moderna]]
 * [[Universidad/Semestre_5/Moderna/Laboratorio Moderna|Laboratorio de Moderna]]
 ===Termodinamica===
-* [[Universidad/Semestre_5/Termo/Apuntes Termo| Apuntes Termo]]
+* [[Universidad/Semestre_5/Termo/Apuntes Termo|Apuntes Termo]]
 ===Ondas y Fluidos===
 * [[Universidad/Semestre_5/Ondas/Apuntes Ondas y Fluidos|Apuntes Ondas y Fluidos]]
 * [[Universidad/Semestre_5/Ondas/Laboratorio|Laboratorio Ondas y Fluidos]]
 * [[Universidad/Semestre_5/Ondas/Complementaria|Complementaria Ondas]]
-* [[Universidad/Semestre_5/Ondas/Apuntes del Libro| Apuntes del Libro]]
+* [[Universidad/Semestre_5/Ondas/Apuntes del Libro|Apuntes del Libro]]
 ===Monstruos y Literatura===
-* [[Universidad/Semestre_5/Monstruos/Apuntes Monstruos y Literatura| Apuntes Monstruos y Literatura]]
+* [[Universidad/Semestre_5/Monstruos/Apuntes Monstruos y Literatura|Apuntes Monstruos y Literatura]]
 * [[Universidad/Semestre_5/Monstruos/Dudas Lectura|Dudas de las Lecturas]]
 ===Tareas===
 * [[Universidad/Semestre_5/Tareas y Proyectos|Tareas y Proyectos]]

@@ -1,1 +1,49 @@
-=24/01/2023=
+=26/01/2023=
+==Sobre los Monstruos==
+===Significados===
+* Producción contra el orden regular de la naturaleza. (Ético)
+* Ser fantastico que causa espanto. (Ético)
+* Cosa excesivamente grande o extraordinaria en cualquier línea. (Estético)
+* Persona o cosa muy fea. (Estético)
+* Persona muy cruel y perversa (Ético)
+* Persona de extraordinarias cualidades para desempeñar una actividad detereminada. (Estético y Ético)
+====Ética====
+* Estudio de lo que es moralmente correcto e incorrecto en el comportamiento humano.
+* Una teoría ética sostiene que la moralidad de una acción se determina por sus consecuecnias.
+* En el marco del "utilitarismo" la acción moralmente correcta es aquellla que maximiza el bienestar general.
+* Virtudes morales: Cualidades positivas, como la honestidad, la generosidad y la compasión, que son consideradas esenciales
+	para una vida moralmente buena
+* Justicia: El principio de tratar a todos de manera equitativa y dar a cada uno lo que les corresponde.
+* Responsabilidad moral: la obligacion de responder por nuestras acciones y decisiones y asumir las consecuencias de ellas.
+* Relativismo moral: La creencia de que las normas morales son relativas a la cultura o al individuo y que no hay verdades
+	morales y universales (individual/particular).
+* Egoismo etico: La creencia de que es moralmente correcto buscar nuestra propia felicidad y beneficio a expensas de otros.
+* Bien Comun: El bienestar y el bienestar de la comunidad en su conjunto considerado como un fin moral.
+====Estética====
+* El estudio de la percepción, juicio y apreciación de la belleza y la fealdad.
+* Belleza: Cualidad subjetiva de los objetos, experiencias y acciones que produce una sensación de placer estético en el observador
+* Fealdad: Cualidad subjetiva de los objetos, experiencias y acciones que produce una sensación desagradable en el observador.
+* Arte: Expresión humana de la belleza, ya sea en forma de objetos, imagenes o sonidos.
+* Gusto: Conjunto de preferencias estéticas de una persona.
+* Representación: El uso de imágenes, símbolos o metáforas para represetar algo en el arte.
+* Forma: La disposición y organizacion de los elementos en una obra de arte.
+====Significado Etimologico====
+La palabra monstruo viene del latín monstrare, esto es, "mostrar". Es decir, un monstruo muestra.
+Un monstruo implica un "llamado de atención" una señal de que algo bueno/malo esta por suceder.
+La señal puede ser de origen divino (como en el libro del Apocalipsis); Dios pone en el camino de la humanidad un monstruo,
+justamente, para alertar sobre amenazas futuras, a modo de "presagios"
+====Kapler====
+No existe una definicion del monstruo, sino diversos intentos de definicion, que varian segun los autores y sobre todo 
+segun las epocas. En el sentido mas amplio el monstruo se define con relacion a la norma [...] se le puede caracterizar como
+una excepción si se lo relaciona con el resultado habitual de la commninatoria génetica
+=====Puntos de Vista=====
+1. Desde el punto de vista *genetico* (físico) que tien en cuenta las causas.
+2. Desde el punto de vista *teologico* y *estetico*, que tiene en cuenta la armonía del universo.
+3. Desde el punto de vista de *lo ejemplar* o *lo normativo*
+====Palencia-Roth====
+La tradicion teratologica se articula (...) por medio de dos discursos: uno *biologico*, que tiene que ver con la físiologia;
+otro teologico, que tiene que ver con el *comportamiento*.
+====Aristoteles====
+La primera caracteriztica del monstruo es la de ser diferente y la de presentar una especie de deformidad
+====Teratologia====
+La teratologia puede ser definida como el tratado sobre las anomalias de los organismos tanto animales, vegetales como humanos.

@@ -44,3 +44,26 @@ Se llama campo a un conjunto F con dos operaciones ($+$ y $\times$) tales que:
 	- $\forall x \in F* (F - {0}) \exists x''$ tq $x \times x'' = 1$. Se denota $x''=1/x$ (M5)
 * $0 \neq 1$
 * $\forall x, y, z \in F$ se da que $x \times (y+z) = x \times y + x \times z$
+==Teorema de la Existencia==
+Enunciado: $\exists!$ campo ordenado con la propiedad del supremo. Lo denotamos *R* 
+Demostración: [[Demostraciones_Largas/Teorema de la Existencia|Demostración del Teorema de la Existencia]]
+==Propiedad Arquimediana de R==
+Enunciado: $\forall y  \in R, \forall x > 0, \exists n \in N tq n \times x > y$ 
+Demostración: Sea $A = {nx; n \in N}$. Si el enunciado fuera falso entonces $\exists y tq y$ es una cota superior de A. Sin embargo
+A tendria un Supremo. Denotemos este supremo como $\alpha$. Dado que $x > 0$, $\alpha - x < \alpha$ y $\alpha - x$ no es una cota
+superior de A. Por tanto $\alpha - x < mx$ para algun $m \in N$. Sin embargo, eso significa que $\alpha < (m+1)x$ Lo cual es
+imposible pues $(m+1) \in N$ y $\alpha$ es por definición el supremo. QED
+==Densidad de Q en R==
+Enunciado: $\forall x,y \in R, x < y, \exists q \in Q tq x < q < y$
+Demostración: Desde que $x < y$ tenemos que $y-x > 0$, por la propiedad arquimediana
+tenemos que que existe un entero positivo tal que
+$n(y-x)>1$ 
+Apliquemos La propiedad Arquimediana de nuevo para obtener enteros positivos tales que $m_1 > nx$, $m_2 > -nx$ entonces.
+$-m_2 < nx < m_1$ 
+Dado esto entonces existe un entero m (tal que $-m_2 < m < m_1$) tal que
+$m-1 \leq nx < m$
+Si combinamos estas inecuaciones tenemos que.
+$nx < m \leq 1 + nx < ny$
+y dado que $n > 0$ (y por tanto su inverso existe.)
+$x < m/n < n$
+QED.

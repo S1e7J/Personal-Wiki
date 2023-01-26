@@ -1,0 +1,19 @@
+=Demostración 1/ Sin unicidad=
+==Notación==
+Las letras p,q,r... siempre denotaran racionales y $\alpha, \beta, \gamma$ van a denotar cortes (Revise Paso 1 para entender que es un corte)
+==Paso 1==
+Los miembros de R van a ser ciertos subconjuntos de Q, llamados cortes. un corte es un conjunto $\alpha$ tal que $\alpha \subset$ Q
+y que cumple las siguientes propiedades:
+1. $\alpha \neq \emptyset \land \alpha \neq Q$
+2. $p \in \alpha, q \in Q \land q < p \Rightarrow q \in \alpha$
+3. $p \in \alpha \Rightarrow \exists r \in \alpha tq p < r$
+===Consecuencias de las propiedades===
+* Un corte no tiene maximo
+* $p \in \alpha \land q \notin \alpha \Rightarrow p < q$
+* $r \notin \alpha \land r < s \Rightarrow s \notin \alpha$
+==Paso 2==
+Defina $\alpha < \beta$ para significar: $\alpha \subset \beta$. Verifiquemos que cumpla con las propiedades para que sea un
+conjunto ordenado.
+* $\alpha < \beta \land \beta < \gamma \Rightarrow \alpha < \beta$
+* Solo una de las siguientes propiedades se cumplen en cualquier caso $\alpha < \beta, \alpha = \beta, \beta < \alpha$.
+==Paso 3==
