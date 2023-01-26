@@ -1,28 +1,26 @@
 =Universidad=
 ==Semestre 5==
-===Abstracta===
-* [[Apuntes Abstracta]]
 ===Analisis===
-* [[Apuntes Analisis]]
-* [[Apuntes Libro Analisis]]
+* [[Universidad/Semestre_5/Analisis/Apuntes Analisis|Apuntes Analisis]]
+* [[Universidad/Semestre_5/Analisis/Libro_Analisisi.wiki|Apuntes del Libro de Analisis]]
 ===Moderna===
-* [[Magistral Moderna]]
-* [[Laboratorio Moderna]]
+* [[Universidad/Semestre_5/Moderna/Magistral Moderna|Magistral Moderna]]
+* [[Universidad/Semestre_5/Moderna/Laboratorio Moderna|Laboratorio de Moderna]]
 ===Termodinamica===
-* [[Apuntes Termodinamica]]
+* [[Universidad/Semestre_5/Termo/Apuntes Termo| Apuntes Termo]]
 ===Ondas y Fluidos===
-* [[Apuntes Ondas y Fluidos]]
-* [[Laboratorio Ondas y Fluidos]]
-* [[Complementaria Ondas y Fluidos]]
-* [[Apuntes del Libro]]
+* [[Universidad/Semestre_5/Ondas/Apuntes Ondas y Fluidos|Apuntes Ondas y Fluidos]]
+* [[Universidad/Semestre_5/Ondas/Laboratorio|Laboratorio Ondas y Fluidos]]
+* [[Universidad/Semestre_5/Ondas/Complementaria|Complementaria Ondas]]
+* [[Universidad/Semestre_5/Ondas/Apuntes del Libro| Apuntes del Libro]]
 ===Monstruos y Literatura===
-* [[Apuntes Monstruos y Literatura]]
+* [[Universidad/Semestre_5/Monstruos/Apuntes Monstruos y Literatura| Apuntes Monstruos y Literatura]]
+* [[Universidad/Semestre_5/Monstruos/Dudas Lectura|Dudas de las Lecturas]]
 ===Tareas===
-* [[Tareas y Proyectos]]
+* [[Universidad/Semestre_5/Tareas y Proyectos|Tareas y Proyectos]]
 =Desarrollo=
 ==python==
 ==C++==
 ==JavaScript==
-* [[Intro a DOM]]
+* [[Programacion/JavaScript/Intro a DOM|Intro a DOM]]
 ==Linux==
-* [[Montando mi primer Servidor]]

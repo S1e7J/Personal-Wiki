@@ -29,3 +29,18 @@ Si S tiene la propiedad del supremo entonces S tiene la propiedad del infimo
 ====Demostración====
 Sea S ordenado y $\emptyset \neq A acotado$ entonces
 Sea L = ${Cotas inferiores de A}$ entonces $L \neq \emptyset$ Ademas, L tine supremo. Dado que $\forall a \in A$ a es cota superior de L. Ahora bien, por la hipotesis de la propiedad del Supremo sabemos que $\exists \alpha = Sup(L)$
+=26/01/2023=
+==Campos==
+Se llama campo a un conjunto F con dos operaciones ($+$ y $\times$) tales que:
+* Propiedades +:
+	- x + y = y +x (A2)
+	- x + (y + z) = (x + y) + z (A3)
+	- $\exists 0 \in F$ tq x + 0 = x (A4)
+	- $\forall x \in F \exists x' \in F$ tq x + x' = 0. Se denota $x' = -x$ (A5)
+* Propiedades $\times$:
+	- $x \times y = y \times x$ (M2)
+	- $x \times (y \times z) = (x \times y) \times z$ (M3)
+	- $\exists 1 \in F$ tq $1 \times x = x$; $x \neq 0$(M4)
+	- $\forall x \in F* (F - {0}) \exists x''$ tq $x \times x'' = 1$. Se denota $x''=1/x$ (M5)
+* $0 \neq 1$
+* $\forall x, y, z \in F$ se da que $x \times (y+z) = x \times y + x \times z$

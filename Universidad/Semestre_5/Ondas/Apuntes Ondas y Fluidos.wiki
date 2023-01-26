@@ -1,0 +1,9 @@
+=24/01/2023=
+==Ejercicio 1==
+Una masa conectada con un resorte es estirada 0.1 m en el tiempo 0. Cuenta con una constante de k=1 N/m; m = 1 Kg; t=0; x=0.1; t=10
+=25/01/2023=
+==Ejercicio==
+Esta en el github: https://github.com/S1e7J/Ejercicios_Jupyter_5.git
+==Pequeño Truco==
+Para concluir nos dio como tip que en las situaciones en donde tengamos una ecuación diferencial real primero intentemos hacerla
+con numeros complejos y nos quedemos con su parte Real.
