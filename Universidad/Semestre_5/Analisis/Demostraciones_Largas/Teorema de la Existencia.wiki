@@ -17,3 +17,11 @@ conjunto ordenado.
 * $\alpha < \beta \land \beta < \gamma \Rightarrow \alpha < \beta$
 * Solo una de las siguientes propiedades se cumplen en cualquier caso $\alpha < \beta, \alpha = \beta, \beta < \alpha$.
 ==Paso 3==
+El conjunto ordenado R tiene la propiedad del supremo.
+Demostración: Sea A un subconjunto no vacio de R, y asuma que $\beta \in R$ es una cota superior de A.
+Defina $\gamma$ como la union de todos los $\alpha \in A$. En otras palabras, 
+$p \in \gamma \Leftrightarrow \exists \alpha \in A tq p \in \alpha$
+
+Dado que A no es vacio entonces existe un $\alpha \in A$ y este $\alpha$  y como $\alpha \subset \gamma$
+entonces $\gamma \neq \emptyset$. Ahora bien, $\gamma \subset \beta$ dado que por definición todo elemento
+en A debe ser menor que $\beta$, y por lo tanto $\gamma \neq Q$
