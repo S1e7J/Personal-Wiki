@@ -1,0 +1,5 @@
+=27/01/2023=
+Para iniciar y tomando en cuenta que no tenemos los conocimientos de cuantica necesaria entonces iniciaremos con teoria de la
+computacion clasica.
+Se llevaran dos ramas independientes que seran cuantica y computacion clasica.
+

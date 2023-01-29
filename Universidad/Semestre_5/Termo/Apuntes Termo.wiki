@@ -1,0 +1,11 @@
+=27/01/2023=
+tomando $\oint dq/T$ (entropia) entonces tendriamos 
+==Sistemas Termodinamicos==
+Definiciones:
+Sistemas Sencillo:
+* Homogeneos
+* Isotropicos
+* Sin carga
+* Grandes.
+Como posición Quimica es IMPORTANTE:
+* Potenciales Quimicos

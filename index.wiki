@@ -16,6 +16,9 @@
 ===Monstruos y Literatura===
 * [[Universidad/Semestre_5/Monstruos/Apuntes Monstruos y Literatura|Apuntes Monstruos y Literatura]]
 * [[Universidad/Semestre_5/Monstruos/Dudas Lectura|Dudas de las Lecturas]]
+===Semilleros===
+* [[Universidad/Semestre_5/Semilleros/Computacion Cuantica|Computacion Cuantica]]
+* [[Universidad/Semestre_5/Semilleros/Fisica-Matematica|Fisica-Matematica]]
 ===Tareas===
 * [[Universidad/Semestre_5/Tareas y Proyectos|Tareas y Proyectos]]
 =Desarrollo=
