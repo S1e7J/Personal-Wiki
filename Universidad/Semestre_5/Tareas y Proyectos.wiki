@@ -7,4 +7,5 @@
 - [ x ](Moderna) Leer el primer capitulo del Libro
 - [ x ](Moderna) Revisar el taller 1
 - [  ](Complementaria de Ondas) Realizar los ejercicios de la semana 1 (Cap 1: 1, 2, 3, 5)
+- [  ](Analisis) Trabajo Semana 1 
 =Proyectos=
