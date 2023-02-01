@@ -1,7 +1,7 @@
 =Tareas=
-- [  ](Laboratorio Moderna) Primera Bitacora - Efecto Fotoelectrico (Lunes 30 de Enero)
+- [ x ](Laboratorio Moderna) Primera Bitacora - Efecto Fotoelectrico (Lunes 30 de Enero)
 - [ x ](Laboratorio Moderna) Curso de Seguridad
-- [  ](Monstruos y Literatura) Leer Libro del Genesis (Capitulos 1, 2, 3, 11) y Apocalipsis (Capitulos 1, 12, 13, 17, 19) 
+- [ x ](Monstruos y Literatura) Leer Libro del Genesis (Capitulos 1, 2, 3, 11) y Apocalipsis (Capitulos 1, 12, 13, 17, 19) 
 - [  ](Monstruos y Literatura) Leer Epopeya a Gilgamesh (Jueves 2 de Febrero)
 - [ x ](Ondas y Fluidos) Leer el capitulo 1 del Libro (Jueves 26 de Enero)
 - [ x ](Moderna) Leer el primer capitulo del Libro
