@@ -9,3 +9,15 @@ Sistemas Sencillo:
 * Grandes.
 Como posición Quimica es IMPORTANTE:
 * Potenciales Quimicos
+=01/02/2023=
+==Ejemplo==
+Un gas particular encerrado en un cilindro con piston movil. Se observa que si las paredes son adiabaticas un aumento quasiestatico
+del volumen reduce la presión de la siguiente manera $P^3$ $V^5 = constante (Q = \emptyset)$ 
+Nota: debe ser quasiestatico para que la presion este bien definida. En caso contrario la presion seria variable.
+1. La energia es independiente de la trayectoria.
+
+$dp/dt = 2/3 \omega/V \tau$
+$\tau = Torque$
+$\omega = Velocidad Angular$
+$V = Volumen$
+
