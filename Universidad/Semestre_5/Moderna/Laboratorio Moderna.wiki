@@ -46,3 +46,6 @@ Asistencias : 16 Clases Las inasistencias deben estar debidamente justificadas. 
 * Conclusiones
 * Bibliografia
 * Apendice de Calculo de Errores
+=06/02/2023=
+==Tablas==
+Se debe buscar que las tablas sean utiles, en nuestro caso particular podriamos convertir las tablas en vez de poner todos los datos podriamos poner en vez 
